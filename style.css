@@ -1,0 +1,19 @@
+* {
+	margin: 0;
+	opacity: 1;
+	background-image: url(
+        udemyCourses/iker-urteaga-246955-unsplash.jpg
+      );
+}
+
+.gameSection {
+	text-align: center;
+}
+
+.heading {
+	margin: 20px;
+	text-align: center;
+	font-size: 3rem;
+	color: rgb(245, 66, 66);
+	font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
