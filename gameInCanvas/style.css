@@ -1,7 +1,9 @@
 * {
 	margin: 0;
 	opacity: 1;
-	background-image: url(/iker-urteaga-246955-unsplash.jpg);
+	background-image: url(
+        udemyCourses/gameInCanvas/iker-urteaga-246955-unsplash.jpg
+      );
 }
 
 .gameSection {
